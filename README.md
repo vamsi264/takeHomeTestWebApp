@@ -93,7 +93,7 @@ _E.g:_
 ```
 **VM options**
 ```bash
-    -Dselenium.browser.name="Firefox" -Denvironment="qa" 
+    -Dselenium.browser.name="{browserName}" -Denvironment="{environment}" 
 ```
 
 **To run on Terminal Command**
