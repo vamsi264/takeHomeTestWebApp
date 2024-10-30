@@ -1,4 +1,4 @@
-JP Morgan Web Automation.
+Web Automation.
 
 ## Architecture
 
