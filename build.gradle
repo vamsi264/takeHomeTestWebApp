@@ -50,6 +50,7 @@ dependencies {
             'com.github.javafaker:javafaker:1.0.2',
             "net.serenity-bdd:serenity-junit:${SERENITY_VERSION}",
             "net.serenity-bdd:serenity-cucumber:${SERENITY_VERSION}",
+            "net.serenity-bdd:serenity-reports:${SERENITY_VERSION}",
             'junit:junit:4.13.1'
     )
 }
@@ -58,10 +59,6 @@ test {
     testLogging.showCauses(true)
     testLogging.showStandardStreams(true)
     systemProperties(System.getProperties())
-}
-
-serenity {
-    reports = ["single-page-html"]
 }
 
 test.finalizedBy(aggregate)

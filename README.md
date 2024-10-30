@@ -109,6 +109,6 @@ To view serenity reports in the project, navigate to index.html file in the path
 
 **E.g:**
 
-![Report](Screenshot%202024-10-30%20at%2001.44.40.png)
+[Screenshot 2024-10-30 at 01.44.40.pdf](..%2F..%2F..%2FDesktop%2FScreenshot%202024-10-30%20at%2001.44.40.pdf)
 
 &copy; 2024 Web Test Application
